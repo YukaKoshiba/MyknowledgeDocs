@@ -7,5 +7,5 @@ If you find any errors, I hope you will let me know.
 ご利用の際はご注意ください
 誤りを見つけたら教えていただけると幸いです
 
-## contents URL;
+contents URL;
 https://github.com/YukaKoshiba/MyknowledgeDocs/wiki
